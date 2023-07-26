@@ -1,0 +1,6 @@
+/.docs
+/.eslintignore
+/.eslintrc.cjs
+/.prettierrc.js
+/.vitepress
+/node_modules
